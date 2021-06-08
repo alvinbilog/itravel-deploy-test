@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itravel-deploy-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/itravel-deploy-test/static/js/main.867d33a0.chunk.js",
+    "main.js.map": "/itravel-deploy-test/static/js/main.867d33a0.chunk.js.map",
+    "runtime-main.js": "/itravel-deploy-test/static/js/runtime-main.1c1c60e8.js",
+    "runtime-main.js.map": "/itravel-deploy-test/static/js/runtime-main.1c1c60e8.js.map",
+    "static/js/2.960dafac.chunk.js": "/itravel-deploy-test/static/js/2.960dafac.chunk.js",
+    "static/js/2.960dafac.chunk.js.map": "/itravel-deploy-test/static/js/2.960dafac.chunk.js.map",
+    "static/js/3.eccc428f.chunk.js": "/itravel-deploy-test/static/js/3.eccc428f.chunk.js",
+    "static/js/3.eccc428f.chunk.js.map": "/itravel-deploy-test/static/js/3.eccc428f.chunk.js.map",
+    "index.html": "/itravel-deploy-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/itravel-deploy-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.960dafac.chunk.js.LICENSE.txt": "/itravel-deploy-test/static/js/2.960dafac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/itravel-deploy-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c1c60e8.js",
+    "static/js/2.960dafac.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.867d33a0.chunk.js"
+  ]
+}
